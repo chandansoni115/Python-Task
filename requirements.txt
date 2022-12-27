@@ -4,6 +4,6 @@ itsdangerous==1.1.0
 Jinja2==2.10.1 
 MarkupSafe==1.1.1  
 pip==19.2.3 
-setuptools==41.2.0 
+setuptools==65.5.1 
 Werkzeug==0.15.6 
 wheel==0.33.6
